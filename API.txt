@@ -1,3 +1,4 @@
-rzp_test_qsWJIMAXJe3Eul
 
-Secret= sjNUv8uvI3K0kNvUMlW0JvxI
+
+key_id : rzp_test_x54InEsfigPGzd
+key_secret : FuZDXSCfeg6U0D1fJTG6pXNV
